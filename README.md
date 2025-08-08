@@ -36,7 +36,3 @@ A simple Java Swing application to calculate loan repayments using the annuity m
 ## License
 
 This project is open source and free to use.
-
----
-
-If you want me to help you prepare a `README.md` file ready to push, I can create it as a text file for you as well.
